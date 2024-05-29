@@ -32,7 +32,7 @@ export default function StandardComingSoon() {
             src={logo}
             alt="Image"
         />
-        <p className="text-xl font-xl m-2 text-slate-800 dark:text-slate-100">
+        <p className="text-xl font-xl m-2 text-slate-800 dark:text-slate-100 text-center">
           {sitetagline}
         </p>
         <ComingSoonContent/>
